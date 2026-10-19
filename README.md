@@ -18,7 +18,7 @@ Fotogramas repartidos por todo el vídeo, con su marca de tiempo y la ficha téc
 
 ## Qué es
 
-Skyler Thumbnails convierte un vídeo en una **hoja de contactos**: una imagen con fotogramas tomados a lo largo de todo el metraje, cada uno con su marca de tiempo y, arriba, los datos del archivo. Sirve para revisar de un vistazo grabaciones largas, catalogar material, enviar un resumen visual de un vídeo o elegir el plano bueno sin reproducirlo entero.
+Skyler Thumbnails convierte un vídeo en un **mosaico**: una imagen con fotogramas tomados a lo largo de todo el metraje, cada uno con su marca de tiempo y, arriba, los datos del archivo. Sirve para revisar de un vistazo grabaciones largas, catalogar material, enviar un resumen visual de un vídeo o elegir el plano bueno sin reproducirlo entero.
 
 Funciona **en tu ordenador**: se abre en el navegador, pero los vídeos no salen de tu equipo y no necesita conexión a internet. Lee prácticamente cualquier formato gracias a FFmpeg, que va incluido.
 
