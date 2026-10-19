@@ -104,10 +104,6 @@ Pulsa su fila en la cola para ver el motivo. Si el archivo está dañado o no ti
 Abre tú mismo `http://localhost:8765`. Si ese puerto está ocupado por otro programa, la aplicación usa el siguiente libre (8766, 8767…).
 </details>
 
-<div align="center">
-<img src="docs/ajustes.webp" width="300" alt="Panel de ajustes">
-</div>
-
 ## Licencia
 
 **© 2026 Skyler. Todos los derechos reservados.**
