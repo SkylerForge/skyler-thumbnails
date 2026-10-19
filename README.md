@@ -4,7 +4,7 @@
 
 # SKYLER THUMBNAILS
 
-**Hojas de contactos de vídeo en segundos.**<br>
+**Mosaico de capturas de un vídeo en segundos.**<br>
 Fotogramas repartidos por todo el vídeo, con su marca de tiempo y la ficha técnica del archivo, en una sola imagen.
 
 [![Versión](https://img.shields.io/github/v/release/SkylerForge/skyler-thumbnails?style=flat-square&label=versi%C3%B3n&color=9eff6a&labelColor=12160f)](../../releases/latest)
