@@ -1,0 +1,60 @@
+LICENCIA DE USO DE SKYLER THUMBNAILS
+
+Copyright © 2026 Skyler. Todos los derechos reservados.
+
+Skyler Thumbnails (en adelante, «el software») es propiedad de Skyler. El
+software no es de código abierto. Esta licencia indica lo que puedes y lo que
+no puedes hacer con él.
+
+1. Uso permitido
+
+   Puedes descargar, instalar y usar gratuitamente el software tal como se
+   distribuye en la página oficial de descargas (Releases del repositorio
+   SkylerForge/skyler-thumbnails en GitHub), para uso personal o profesional.
+   Las imágenes que generes con el software son tuyas.
+
+2. Usos no permitidos
+
+   Salvo autorización previa y por escrito de Skyler, no puedes:
+
+   a) modificar, adaptar, traducir o alterar el software, su interfaz o su
+      código, ni crear obras derivadas a partir de ellos;
+   b) copiar, redistribuir, publicar, vender, alquilar, prestar o sublicenciar
+      el software o cualquier parte de él, modificado o sin modificar; para
+      compartirlo, enlaza a la página oficial de descargas;
+   c) descompilar, desensamblar, extraer o aplicar ingeniería inversa al
+      software, salvo en la medida en que la ley aplicable lo permita
+      expresamente pese a esta prohibición;
+   d) eliminar, ocultar o alterar los avisos de autoría, de marca o de esta
+      licencia;
+   e) usar el nombre «Skyler», el escudo o cualquier otro signo distintivo de
+      Skyler en productos propios, ni presentar el software como tuyo o como
+      creado por otra persona.
+
+3. Código fuente
+
+   Si el código fuente se hace visible, es solo para consulta. Verlo no concede
+   ningún derecho distinto de los del punto 1.
+
+4. Componentes de terceros
+
+   El software se distribuye junto con componentes de terceros (FFmpeg, JSZip,
+   las tipografías Michroma y Azeret Mono y la biblioteca estándar de Go), que
+   se rigen por sus propias licencias, descritas en THIRD_PARTY.md. Esta
+   licencia no se aplica a esos componentes ni limita los derechos que sus
+   licencias te conceden sobre ellos.
+
+5. Sin garantía
+
+   El software se proporciona «tal cual», sin garantía de ningún tipo, expresa
+   o implícita. En la medida en que lo permita la ley, Skyler no será
+   responsable de ningún daño derivado del uso o de la imposibilidad de uso
+   del software.
+
+6. Fin de la licencia
+
+   Si incumples cualquiera de estas condiciones, la licencia termina
+   automáticamente y debes dejar de usar el software y borrar tus copias.
+
+Para pedir autorizaciones o usos distintos de los descritos, contacta con
+Skyler a través de GitHub (SkylerForge).
